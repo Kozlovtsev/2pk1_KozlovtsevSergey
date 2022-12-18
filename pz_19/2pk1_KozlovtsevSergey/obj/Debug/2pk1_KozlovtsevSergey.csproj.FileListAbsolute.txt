@@ -1,0 +1,8 @@
+C:\Users\Sergey\source\repos\pz_19\2pk1_KozlovtsevSergey\bin\Debug\2pk1_KozlovtsevSergey.exe.config
+C:\Users\Sergey\source\repos\pz_19\2pk1_KozlovtsevSergey\bin\Debug\2pk1_KozlovtsevSergey.exe
+C:\Users\Sergey\source\repos\pz_19\2pk1_KozlovtsevSergey\bin\Debug\2pk1_KozlovtsevSergey.pdb
+C:\Users\Sergey\source\repos\pz_19\2pk1_KozlovtsevSergey\obj\Debug\2pk1_KozlovtsevSergey.csproj.AssemblyReference.cache
+C:\Users\Sergey\source\repos\pz_19\2pk1_KozlovtsevSergey\obj\Debug\2pk1_KozlovtsevSergey.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergey\source\repos\pz_19\2pk1_KozlovtsevSergey\obj\Debug\2pk1_KozlovtsevSergey.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\source\repos\pz_19\2pk1_KozlovtsevSergey\obj\Debug\2pk1_KozlovtsevSergey.exe
+C:\Users\Sergey\source\repos\pz_19\2pk1_KozlovtsevSergey\obj\Debug\2pk1_KozlovtsevSergey.pdb
